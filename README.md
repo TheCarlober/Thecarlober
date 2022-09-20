@@ -4,7 +4,6 @@
 <p align="center">
 
 ![rep](https://user-images.githubusercontent.com/86197463/191179928-c93e801a-8ca7-4c11-b0f6-008bebe4eaaf.gif)
-</p align="center">
 
 align="center">
 <img src="https://github.com/aex03/aex03/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
