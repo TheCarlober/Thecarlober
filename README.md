@@ -8,10 +8,6 @@ hello today I will be your host for the realization of your exploits!
 <img src="https://github.com/aex03/aex03/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 </p>
 <br>
-<bachievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka"></p align="center">
-<br>
-<br>
-<br>
 
 ## :exclamation: Disclaimer
                                                    TO BE USED FOR Education Purpose
