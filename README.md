@@ -7,7 +7,8 @@
  
 </p align="center">
 <!--- Picture --->
-<p align="center">![rep](https://user-images.githubusercontent.com/86197463/191178922-3696c523-e6b3-4084-9cd9-f0036867f24c.gif)
+<p align="center">!
+ [rep](https://user-images.githubusercontent.com/86197463/191178922-3696c523-e6b3-4084-9cd9-f0036867f24c.gif)
 
 
 <p align="center">
