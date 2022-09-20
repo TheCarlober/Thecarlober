@@ -1,9 +1,14 @@
 ### 
 Hello, my name is @Carlober
+
 hello today I will be your host for the realization of your exploits!
 
 ![rep](https://user-images.githubusercontent.com/86197463/191177143-8da2cbf3-8c97-4c27-80ed-20370158a319.gif)
-
+<p align="center">
+<img src="https://github.com/aex03/aex03/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
+</p>
+<br>
+<br>
 
 <!--
 **TheCarlober/Thecarlober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
