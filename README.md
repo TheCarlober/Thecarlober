@@ -8,6 +8,11 @@
 <p align="center">
 <img src="https://github.com/AeX03/AeX03/blob/main/picture/rep.gif" />
   </p align="center">
+  
+  <img align="left" width="430" height="auto" alt="AeX03's github stats" src="https://github-readme-stats.vercel.app/api?username=Carlober&hide=_border=true&title_color=B60909&icon_color=B60909&text_color=0BB41F&bg_color=0F0F0F&show_icons=true;count_private=true&amp;include_all_commits=true">
+<img align="right" width="359" height="auto" alt="AeX03's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlober&hide=_border=true&title_color=B60909&icon_color=B60909&text_color=0BB41F&bg_color=0F0F0F&layout=compact&amp;show_icons=true&amp;">
+</h2>
+  
 <img src="https://github.com/aex03/aex03/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 </p>
 <br>
