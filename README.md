@@ -8,7 +8,6 @@
 <img src="https://github.com/aex03/aex03/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 </p>
 <br>
-
 ## :exclamation: Disclaimer
                                              TO BE USED FOR Education Purpose
 
