@@ -9,6 +9,17 @@ hello today I will be your host for the realization of your exploits!
 </p>
 <br>
 <br>
+<p align="center"><img src="https://metrics.lecoq.io/aex03?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka"></p align="center">
+<br>
+<br>
+<br>
+
+## :exclamation: Disclaimer
+                                                   TO BE USED FOR Education Purpose
+
+all tools may only be used for lawful purposes. Users take full responsibility for any action taken using the tool(s). The author declines all responsibility for damage caused by these tools offered on his page. If these terms do not suit you, do not use these tools.
+By using the tools you declare that you have taken cognizance of the terms of the MIT contract and my additions thereto.
+
 
 <!--
 **TheCarlober/Thecarlober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
