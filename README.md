@@ -3,8 +3,8 @@
 
 
 <p align="center"> hello today I will be your host for the realization of your exploits! </p align="center">
+![rep](https://user-images.githubusercontent.com/86197463/191179319-c629d81f-b70e-4b50-b28a-a3c30eeb6897.gif)
 
-<p ![rep](https://user-images.githubusercontent.com/86197463/191179218-65ffcfa7-c901-428d-a036-4c96e8cbbf38.gif)
 align="center">
 <img src="https://github.com/aex03/aex03/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 </p>
